@@ -50,9 +50,6 @@ print("\n time.ctime==========")
 # asctime과 다른점은 ctime은 항상 현재 시간만을 돌려준다는 점이다.
 print(time.ctime())
 
-print("\n time.strftime==========")
-# time.strftime(' 출력할 형식 포맷 코드', time.localtime(time.time()))
-print(time.strftime())
 
 
 
